@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_site_images_view_1 = function(feature, resolution){
+var style_site_images_view_5 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
